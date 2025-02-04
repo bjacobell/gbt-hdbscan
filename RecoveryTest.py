@@ -13,6 +13,7 @@ import math
 from blimpy import Waterfall
 
 # A redux of Krishnakumar Bhattaram's signal insertion script by Carmen Choza, with help from Bryan Brzycki.
+# Minor edits by Ben Jacobson-Bell.
 
 # The output name for inserted files.
 outfilename = "drifting_centered_1000_10p_2w_square_DDO210"
